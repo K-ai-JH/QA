@@ -1,3 +1,7 @@
-# 로컬 제어 스크립트 (저장소에 올리지 않음)
-*.bat
-*.py
+# QA 저장소 — PNG 에셋만 git 추적
+# catalog.json, .md, 스크립트 등은 로컬 전용
+
+*
+!*/
+!*.png
+!.gitignore
