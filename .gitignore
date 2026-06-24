@@ -5,3 +5,7 @@
 !*/
 !*.png
 !.gitignore
+
+# 상황 샘플 원장 (기준정보용, git 미추적)
+SAMPLE/
+SAMPLE/**
